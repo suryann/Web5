@@ -10,7 +10,4 @@
 *.lai
 *.la
 *.a
-
-auth/.DS_Store
-
-common/hash/.DS_Store
+*.DS_Store
